@@ -119,7 +119,7 @@ const Manager = () => {
           </div>
 
         </div>
-        <button onClick={savepassword} className='text-black bg-green-400 border-2 border-green-900 flex justify-center gap-4 text-[18px] items-center rounded-full w-[25%] m-auto p-2 py-2 hover:bg-green-500 max-md:w-[50%]'><MdLibraryAdd />
+        <button onClick={savepassword} className='text-black bg-green-400 border-2 border-green-900 flex justify-center gap-4 text-[18px] items-center rounded-full w-[25%] m-auto p-2 py-2 hover:bg-green-500 max-md:w-[75%]'><MdLibraryAdd />
           Add Password</button>
       </div>
       <div className='mx-auto max-w-6xl bg-purple-200 bg-opacity-30 shadow-lg m-5 h-[310px] p-2 overflow-y-auto custom-scrollbar'>
